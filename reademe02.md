@@ -1,6 +1,6 @@
-# ED.michael cover 
+# ED.michael cover
 
-# intro  Carmina burana
+# intro Carmina burana
 
 ## Jam
 
