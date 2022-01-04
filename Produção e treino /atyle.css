@@ -8,3 +8,24 @@ color: darkblue;
 h2{
 text-align: center;
 }
+ul.a {list-style-type: circle;}
+ul.b {list-style-type: square;}
+ol.c {list-style-type: upper-roman;}
+ol.d {list-style-type: lower-alpha;}
+ul  {
+              list-style: square inside url("sqpurple.gif");
+              
+              div {
+                            width: 100px;
+                            height: 100px;
+                            background: red;
+                            position: relative;
+                            animation: mymove 5s infinite;
+                          }
+                                       
+              
+            }
+            @keyframes mymove {
+              from {top: 0px;}
+              to {top: 200px;}
+            }        
