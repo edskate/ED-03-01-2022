@@ -1,0 +1,10 @@
+h1{
+background-color: chartreuse;
+text-align: center;
+text-shadow: 2px 3px 4px rgb(26, 139, 214);
+box-shadow: 10px 10px 10px #733073;
+color: darkblue;
+}
+h2{
+text-align: center;
+}
